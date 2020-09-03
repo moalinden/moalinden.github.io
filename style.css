@@ -50,12 +50,18 @@ table {
     overflow: auto;
   }
   /* ------- FONTS -------*/
+ * {
+     font-family: Arial, Helvetica, sans-serif;
+ }
   h1 {
       font-size: 40px;
       font-style: normal;
       font-family: Arial, Helvetica, sans-serif;
   }
   /* ------- END OF FONTS -------*/
+  header {
+      margin: 10px;
+  }
 #message {
     float: left;
     margin: 10px;
