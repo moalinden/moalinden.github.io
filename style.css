@@ -15,4 +15,5 @@ footer {
 }
 .thirdwidthfooterelement {
     width: 33%;
+    float: left;
 }
