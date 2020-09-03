@@ -76,7 +76,7 @@ table {
     padding: 10px;
     background-color: lightgrey;
 }
-.pagenavitem{
+.pagenavitem {
     padding: 20px;
     background-color: red;
     display: inline-block;
@@ -88,6 +88,6 @@ footer {
 
 }
 .thirdwidthfooterelement {
-    width: 33%;
+    width: 32%;
     float: left;
 }
