@@ -59,6 +59,10 @@ table {
       font-family: Arial, Helvetica, sans-serif;
   }
   /* ------- END OF FONTS -------*/
+  .contentcontainer {
+      margin: 0 auto;
+      max-width: 1224px;
+  }
   header {
       margin: 10px;
   }
