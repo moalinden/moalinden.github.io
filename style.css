@@ -59,6 +59,11 @@ table {
     padding: 10px;
     background-color: lightgrey;
 }
+.pagenavitem{
+    padding: 20px;
+    background-color: red;
+    display: inline-block;
+}
 footer {
     width: 100;
     padding: 20px;
