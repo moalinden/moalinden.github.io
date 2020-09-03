@@ -46,6 +46,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.clearfix {
+    overflow: auto;
+  }
 #message {
     float: left;
     margin: 10px;
@@ -60,6 +63,7 @@ footer {
     width: 100;
     padding: 20px;
     background-color: blue
+
 }
 .thirdwidthfooterelement {
     width: 33%;
