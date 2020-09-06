@@ -86,7 +86,7 @@ footer {
    margin: 50px auto; 
     width: 100;
     padding: 20px;
-    background-color: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
 
 }
 .thirdwidthfooterelement {
