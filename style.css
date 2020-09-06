@@ -82,6 +82,8 @@ table {
     display: inline-block;
 }
 footer {
+   border-radius: 30px;
+   margin: 50px auto; 
     width: 100;
     padding: 20px;
     background-color: linear-gradient(35deg, #CCFFFF, #FFCCCC);
