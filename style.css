@@ -84,13 +84,11 @@ table {
 footer {
     width: 100;
     padding: 20px;
-    background-color: blue
+    background-color: blue;
+    float: left;
 
 }
 .thirdwidthfooterelement {
     width: 32%;
     float: left;
-}
-img {
-    float:left;
 }
