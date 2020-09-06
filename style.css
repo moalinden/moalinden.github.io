@@ -84,7 +84,7 @@ table {
 footer {
     width: 100;
     padding: 20px;
-    background-color: blue;
+    background-color: linear-gradient(35deg, #CCFFFF, #FFCCCC);
 
 }
 .thirdwidthfooterelement {
