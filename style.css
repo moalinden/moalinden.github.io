@@ -83,7 +83,7 @@ table {
 }
 footer {
    border-radius: 30px;
-    width: 100;
+    width: 100%;
     padding: 20px;
     background-color: rgb(230, 105, 230);
 
