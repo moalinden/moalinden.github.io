@@ -62,7 +62,6 @@ table {
   .contentcontainer {
       margin: 0 auto;
       max-width: 1224px;
-      display:block;
   }
   header {
       margin: 10px;
@@ -91,4 +90,7 @@ footer {
 .thirdwidthfooterelement {
     width: 32%;
     float: left;
+}
+img {
+    float:left;
 }
