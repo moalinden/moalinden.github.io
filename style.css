@@ -78,7 +78,7 @@ table {
 }
 .pagenavitem {
     padding: 20px;
-    background-color: red;
+    background-color: rgba(230, 230, 250, 0.5);
     display: inline-block;
 }
 footer {
